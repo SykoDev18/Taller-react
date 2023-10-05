@@ -20,6 +20,7 @@ function App() {
       Cambiar estado
     </button>
     <Boton texto={'Ayuda'}></Boton>
+    <Boton texto={'Alerta'}></Boton>
     </div>
     </>
   );
