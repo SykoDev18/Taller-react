@@ -10,6 +10,7 @@ function App() {
        {estado}
     </h1>
     <button onClick={()=>{
+      alert("Holis!!!!");
       if(estado == "Verdadero"){
         setEstado("Falso");
       }else{
